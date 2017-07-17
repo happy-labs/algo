@@ -1,0 +1,7 @@
+How to run
+
+javac WordWrap.java
+java WordWrap <line margin> <input words>
+
+Example 
+java WordWrap 6 'aaa bb cc ddddd' 

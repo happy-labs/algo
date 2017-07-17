@@ -1,0 +1,4 @@
+.history
+.cache
+*.DS_Store
+*.pyc
